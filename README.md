@@ -35,7 +35,7 @@
 <br><br>
 ## Sobre o projeto
 
-<img src="./src/readme/desktop.png" alt="Result page" width="450" height="230">
+<img src="./src/readme/desktop.png" alt="Result page" width="600" height="280">
 
 Projeto simples em React que exibe 3 parágrafos e um botão que exibe um alerta na tela.
 
