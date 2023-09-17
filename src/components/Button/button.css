@@ -1,0 +1,19 @@
+.btn {
+    color: rgb(255, 255, 255);
+    background-color: rgb(145, 57, 129);
+    border-radius: 20px;
+    padding: 10px 20px;
+    border: none;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+   
+    &:hover {
+        background-color: rgb(153, 77, 139);
+        transition: 0.2s ease-in-out;
+        box-shadow: -1px 0px 10px 0px rgb(191, 188, 191);
+    }
+    &:active {
+        background-color: rgb(180, 122, 170);
+        transition: 0.2s ease-in-out;
+    }
+}
